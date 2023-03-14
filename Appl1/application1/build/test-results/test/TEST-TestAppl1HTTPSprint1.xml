@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestAppl1HTTPSprint1" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-14T08:16:38" hostname="GHENO" time="20.889">
+  <properties/>
+  <testcase name="testBoundary" classname="TestAppl1HTTPSprint1" time="20.889"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
